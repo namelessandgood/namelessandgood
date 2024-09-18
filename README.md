@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 | TypeScript             |
 | ---------------------- |
-| SQL, MySQL, Sql-Server |
+| SQL, MySQL, Sql-Server mongodb |
 | C++                    |
 | Html, CSS              |
 | Java                   |
