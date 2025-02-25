@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 | PHP        | Laravel FullStack, API                            |
 
 ## Language I Learn
-
+| Language|
+|---------|
 | TypeScript             |
-| ---------------------- |
 | SQL, MySQL, Sql-Server mongodb |
 | C++                    |
 | Html, CSS              |
