@@ -7,7 +7,7 @@ My Name's Ali M.M, I'm graduate Student in University of Karbala in Collage of C
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Laravel, TypeScript, ASP.Net Core 
+- 🔭 I’m currently working on Laravel, TypeScript, JavaScript,ASP.Net Core 
 - 🌱 I’m currently learning Clean Code, Write Reusable Code
 - 👯 I’m looking to collaborate on MySelf
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ## Language I Learn
 | Language|
 |---------|
-| TypeScript             |
+| TypeScript, JavaScript             |
 | SQL, MySQL, Sql-Server mongodb |
 | C++                    |
 | Html, CSS              |
