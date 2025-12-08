@@ -101,11 +101,5 @@ These are foundational texts for anyone striving to become a better engineer, an
 
 ---
 
-<!-- Optional GitHub Stats -->
 
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=namelessandgood&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namelessandgood&theme=tokyonight" width="48%" />
-</p>
--->
+
