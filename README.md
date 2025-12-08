@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 |---------|
 | TypeScript, JavaScript             |
 | SQL, MySQL, Sql-Server mongodb |
+|C#|
 | C++                    |
 | Html, CSS              |
 | Java                   |
