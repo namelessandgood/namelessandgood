@@ -107,9 +107,8 @@ graph LR
 
 <div align="center">
 
-```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    Engineering Philosophy                        │
+│                    Engineering Philosophy                       │
 ├──────────────────────┬──────────────────────────────────────────┤
 │  🧱 Clean Arch       │  Layers that respect boundaries          │
 │  🧭 Domain-Driven    │  Code that mirrors the real world        │
@@ -121,7 +120,7 @@ graph LR
 │  🌐 API Design       │  RESTful, versioned, future-proof        │
 │  🤖 AI Integration   │  Embedding AI into backend pipelines     │
 └──────────────────────┴──────────────────────────────────────────┘
-```
+
 
 </div>
 
