@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/AliMohammad?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b)](https://github.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=AliMohammad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 
 </div>
@@ -107,20 +107,17 @@ graph LR
 
 <div align="center">
 
-┌─────────────────────────────────────────────────────────────────┐
-│                    Engineering Philosophy                       │
-├──────────────────────┬──────────────────────────────────────────┤
-│  🧱 Clean Arch       │  Layers that respect boundaries          │
-│  🧭 Domain-Driven    │  Code that mirrors the real world        │
-│  🏗️  N-Tier Arch     │  Clarity through separation of concerns  │
-│  🎛️  Design Systems  │  Consistency & reusability at scale      │
-│  🗃️  Schema Design   │  Efficient, normalized data structures   │
-│  ✨ Clean Code       │  Readable, testable, maintainable        │
-│  🔁 Reusable Code    │  DRY principles, composable modules      │
-│  🌐 API Design       │  RESTful, versioned, future-proof        │
-│  🤖 AI Integration   │  Embedding AI into backend pipelines     │
-└──────────────────────┴──────────────────────────────────────────┘
-
+| 🏛️ Principle | 💡 What It Means |
+|:---|:---|
+| 🧱 **Clean Architecture** | Layers that respect boundaries and protect the domain |
+| 🧭 **Domain-Driven Design** | Code that mirrors real-world business logic |
+| 🏗️ **N-Tier Architecture** | Clarity through separation of concerns across layers |
+| 🎛️ **Design Systems** | Consistency and reusability across the entire application |
+| 🗃️ **Database Schema Design** | Efficient, normalized, and scalable data structures |
+| ✨ **Clean Code** | Readable, testable, and maintainable at every level |
+| 🔁 **Reusable Code Patterns** | DRY principles and composable, flexible modules |
+| 🌐 **API Design** | RESTful, versioned, and future-proof endpoint structure |
+| 🤖 **AI Integration** | Embedding AI capabilities into backend pipelines |
 
 </div>
 
@@ -129,16 +126,16 @@ graph LR
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliMohammad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMohammad&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliMohammad&theme=tokyonight&background=0d1117&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&border=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliMohammad&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed" width="95%"/>
 </div>
 
 ---
