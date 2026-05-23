@@ -13,11 +13,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/AliMohammad?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7c3aed&labelColor=1e1b4b)](https://github.com/)
 ![Profile Views](https://komarev.com/ghpvc/?username=AliMohammad&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-![My Infomation](https://wise-poodle-97281060.figma.site/)
+
 </div>
 
 ---
-
+![My Infomation](https://wise-poodle-97281060.figma.site/)
 ## 🧬 About Me
 
 ```
