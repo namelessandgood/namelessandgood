@@ -20,7 +20,7 @@
 
 ## 🧬 About Me
 
-```ts
+```
 const Ali = {
 	name: "Ali M.M",
 	title: "Full Stack & Backend Engineer",
@@ -30,6 +30,7 @@ const Ali = {
 	philosophy: "Write code that your future self will thank you for.",
 	currentlyBuilding: "Scalable SaaS apps with AI-accelerated workflows",
 	funFact: "I sometimes get lost in architecture diagrams... and love it 😄",
+	My infomation Page: ![My Infomation] (https://wise-poodle-97281060.figma.site/)
 };
 ```
 
