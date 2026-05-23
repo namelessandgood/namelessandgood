@@ -17,7 +17,7 @@
 </div>
 
 ---
-![My Infomation](https://wise-poodle-97281060.figma.site/)
+My Infomation: (https://wise-poodle-97281060.figma.site/)
 ## 🧬 About Me
 
 ```
